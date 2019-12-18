@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/darksecdevelopers"><img title="Open Source Love" src="https://badges.frapsoft.com/os/v3/open-source.svg?v=102" ></a>
-  <a href="https://github.com/DarkSecDevelopers/HiddenEye/releases"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=0.5.1&x2=0" ></a>
-  <a href="https://www.codetriage.com/darksecdevelopers/hiddeneye"><img title="Open Source Helpers" src="https://www.codetriage.com/darksecdevelopers/hiddeneye/badges/users.svg" ></a>
+  <a href="https://github.com/Azstar-dot"><img title="Open Source Love" src="https://badges.frapsoft.com/os/v3/open-source.svg?v=102" ></a>
+  <a href="https://github.com/Azstar-dot/Hacktwo/releases"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=0.5.1&x2=0" ></a>
+  <a href="https://www.codetriage.com/Azstar-dot/hacktwo"><img title="Open Source Helpers" src="https://www.codetriage.com/Azstar-dot/Hacktwo/badges/users.svg" ></a>
 </p>
 
 # DEVELOPERS & CONTRIBUTORS
@@ -84,7 +84,7 @@
 - Major issues fixed.
 
 **4) ANDROID SUPPORT**
-- We care about Android Users, So now we have came with two ways to run HiddenEye in Android Devices.
+- We care about Android Users, So now we have came with two ways to run Hacktwo in Android Devices.
 
 **(A) UserLand App**
 - You Have to Download UserLand App. [Click Here](https://play.google.com/store/apps/details?id=tech.ula) To Download it.
